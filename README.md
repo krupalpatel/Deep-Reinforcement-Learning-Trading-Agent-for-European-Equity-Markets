@@ -5,7 +5,7 @@ Training an AI Trader using PPO to Optimize Risk-Adjusted Returns
 
 An RL agent learns trading behavior through interaction.
 
-The system contains:
+* The system contains:
 
 Agent
 
@@ -18,3 +18,8 @@ Financial market
 Reward
 
 Trading profit adjusted for risk
+
+
+### This project implements a reinforcement learning based trading system for European equity markets.
+
+    The agent learns optimal trading policies using Proximal Policy Optimization (PPO).
