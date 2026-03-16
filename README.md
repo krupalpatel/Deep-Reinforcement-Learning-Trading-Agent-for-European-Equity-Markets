@@ -7,17 +7,17 @@ An RL agent learns trading behavior through interaction.
 
 * The system contains:
 
-Agent
+1: Agent
 
-The AI trader
+2: The AI trader
 
-Environment
+3: Environment
 
-Financial market
+4: Financial market
 
-Reward
+5: Reward
 
-Trading profit adjusted for risk
+6: Trading profit adjusted for risk
 
 
 ### This project implements a reinforcement learning based trading system for European equity markets.
