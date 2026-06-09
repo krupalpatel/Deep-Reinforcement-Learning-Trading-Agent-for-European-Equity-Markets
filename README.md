@@ -3,7 +3,7 @@ Training an AI Trader using PPO to Optimize Risk-Adjusted Returns
 
 ## Reinforcement Learning Approach
 
-An RL agent learns trading behavior through interaction.
+-> An RL agent learns trading behavior through interaction.
 
 * The system contains:
 
